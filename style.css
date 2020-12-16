@@ -1,0 +1,14 @@
+body{
+text-align: center;
+background-image: url("background.jpeg");
+background-size: cover;
+}
+label {
+text-align:center;
+    display: inline-block;
+    width:100px;
+    text-align: right;
+}
+li{
+  list-style: none;
+}
