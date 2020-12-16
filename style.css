@@ -17,9 +17,13 @@ li{
   background: white;
 }
 
+h1{
+  font-family: 'Bungee', cursive;
 
+
+}
 div {
-  margin-top: 50px;
+padding-top: 20px;
   background: #f6ecf0;
   opacity: 1;
   padding: 0;
